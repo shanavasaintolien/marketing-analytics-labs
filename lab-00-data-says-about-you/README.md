@@ -8,7 +8,7 @@ Includes: Photo + Introduction + Data reflection
 
 ---
 
-## 🔍 Purpose of This Lab
+## Purpose of This Lab
 
 Marketing analytics is not just about numbers — it is about interpreting behavior, understanding context, and telling accurate stories.
 
@@ -43,7 +43,7 @@ Include a short write-up (5–7 sentences) that includes:
 - Your career aspirations or professional goals
 - What you are most looking forward to this semester (in this course or overall throughout your other coursework)
 
-### 📸 Photo Requirement
+### 📸 Add a Photo
 Include one clear photo of yourself.
 
 This does not need to be formal. It is simply to help your instructor & classmates learn names and faces.
@@ -68,7 +68,7 @@ Estimates are fine. Exact numbers are not required.
 
 ---
 
-# 🧠 Part 3: The Story the Data Tells
+# ✏️ Part 3: The Story the Data Tells
 
 Based only on your three data points, answer:
 
@@ -92,9 +92,9 @@ Write 1 short paragraph (3-4 sentences).
 
 ---
 
-# 🎨 Format Options (Choose One: Canva Visual, Google Doc, google slide, or any other platform)
+# Format Options
 
-## Option 1: Canva Visual (Recommended)
+## Choose One: Canva Visual, Google Doc, google slide, or any other platform
 Create a 1-2 page visual that includes:
 - Photo + introduction
 - Data snapshot
@@ -106,7 +106,7 @@ Design quality is not graded. Clarity and thoughtfulness matter more.
 
 ---
 
-# 📤 Submission Instructions
+# Submission Instructions
 
 - Submit one file via Canvas (PDF, image, or document). You can also submit a link if that works better to share the assignment, but you must make sure that it is accessible by anyone who has the link. I will not chase you if the link is inaccessible. It is YOUR responsibility to make sure that it works properly. You will (unfortunately) receive 0 points if I cannot access it. 
 
