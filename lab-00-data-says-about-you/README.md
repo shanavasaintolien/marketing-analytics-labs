@@ -2,9 +2,9 @@
 **Marketing Analytics – Icebreaker & Introduction**
 
 📅 Due: Week 1
-📍 Submission: Canvas  
-🧠 Format: Canva (recommended) or google doc  
-📸 Includes: Photo + Introduction  
+Submission: Canvas  
+Format: Canva (recommended) or google doc  
+Includes: Photo + Introduction + Data reflection  
 
 ---
 
@@ -41,18 +41,18 @@ Include a short write-up (5–7 sentences) that includes:
 - Your full name
 - Your major
 - Your career aspirations or professional goals
-- What you are most looking forward to this semester (in this course or overall)
+- What you are most looking forward to this semester (in this course or overall throughout your other coursework)
 
 ### 📸 Photo Requirement
 Include one clear photo of yourself.
 
-This does not need to be formal. It is simply to help your instructor learn names and faces.
+This does not need to be formal. It is simply to help your instructor & classmates learn names and faces.
 
 ---
 
 # 📊 Part 2: Your Data Snapshot
 
-Identify **three (3) data points** that could realistically describe you if someone were analyzing your behavior.
+Identify and list **three (3) data points** that could realistically describe you if someone were analyzing your behavior.
 
 Examples (you may choose others):
 - Average daily screen time
@@ -74,9 +74,9 @@ Based only on your three data points, answer:
 
 - What might a marketer or algorithm conclude about you?
 - What assumptions could be made about your preferences or lifestyle?
-- How might you be categorized?
+- How might you be categorized as a consumer?
 
-Write 1 short paragraph.
+Write 1 short paragraph (3-4 sentences).
 
 ---
 
@@ -88,19 +88,11 @@ Now consider the limitations.
 - What important context is missing?
 - What additional questions would someone need to ask before making decisions about you?
 
-Write 1 short paragraph.
+Write 1 short paragraph (3-4 sentences).
 
 ---
 
-# ✍️ Part 5: Reflection
-
-In 3–5 sentences, respond to:
-
-> What does this exercise reveal about the strengths and limitations of marketing analytics?
-
----
-
-# 🎨 Format Options (Choose One)
+# 🎨 Format Options (Choose One: Canva Visual, Google Doc, google slide, or any other platform)
 
 ## Option 1: Canva Visual (Recommended)
 Create a 1-2 page visual that includes:
@@ -116,7 +108,7 @@ Design quality is not graded. Clarity and thoughtfulness matter more.
 
 # 📤 Submission Instructions
 
-- Submit one file via Canvas (PDF, image, or document)
+- Submit one file via Canvas (PDF, image, or document). You can also submit a link if that works better to share the assignment, but you must make sure that it is accessible by anyone who has the link. I will not chase you if the link is inaccessible. It is YOUR responsibility to make sure that it works properly. You will (unfortunately) receive 0 points if I cannot access it. 
 
 ---
 
