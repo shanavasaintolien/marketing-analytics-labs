@@ -3,8 +3,6 @@
 
 📅 Due: Week 1
 Submission: Canvas  
-Format: Canva (recommended) or google doc  
-Includes: Photo + Introduction + Data reflection  
 
 ---
 
@@ -16,19 +14,16 @@ This activity serves two purposes:
 1. Introduce yourself to your instructor and classmates.
 2. Explore how data can describe you — and how it can misrepresent you.
 
-This is a low-pressure, reflective assignment designed to set the tone for the course.
-
 ---
 
 ## 📌 Overview of Your Submission
 
-You will submit **one combined assignment** that includes:
+You will submit **one assignment** that includes:
 
 - A short personal introduction + photo
 - A data snapshot about you
 - An interpretation of what that data suggests
 - A discussion of what the data might get wrong
-- A short reflection
 
 All components must be included in one file.
 
@@ -96,7 +91,9 @@ Write 1 short paragraph (3-4 sentences).
 
 ## Choose One: Canva Visual, Google Doc, google slide, or any other platform
 You may complete this using the templates provided below OR create your own using another platform of your choice.
+
 [Canva template - allows for more creative editing]: (https://www.canva.com/design/DAHC2DWz-xQ/j-ryA3W04aMG791ge5cT8w/view?utm_content=DAHC2DWz-xQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+
 [Google Slides Template]:(https://docs.google.com/presentation/u/2/d/1CYg7aTZkyeNEeV6GVfZb3AXIydVHImhb/copy)
 
 ### Create a 1-2 page visual that includes:
