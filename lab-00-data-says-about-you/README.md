@@ -36,7 +36,7 @@ All components must be included in one file.
 
 # 👋 Part 1: About You (Introduction + Photo)
 
-Include a short write-up (5–7 sentences) that includes:
+Include a short write-up that includes:
 
 - Your full name
 - Your major
@@ -95,12 +95,15 @@ Write 1 short paragraph (3-4 sentences).
 # Format Options
 
 ## Choose One: Canva Visual, Google Doc, google slide, or any other platform
-Create a 1-2 page visual that includes:
+You may complete this using the templates provided below OR create your own using another platform of your choice.
+[Canva template - allows for more creative editing]: (https://www.canva.com/design/DAHC2DWz-xQ/j-ryA3W04aMG791ge5cT8w/view?utm_content=DAHC2DWz-xQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+[Google Slides Template]:(https://docs.google.com/presentation/u/2/d/1CYg7aTZkyeNEeV6GVfZb3AXIydVHImhb/copy)
+
+### Create a 1-2 page visual that includes:
 - Photo + introduction
 - Data snapshot
 - Story the data tells
 - What the data gets wrong
-- Reflection
 
 Design quality is not graded. Clarity and thoughtfulness matter more.
 
