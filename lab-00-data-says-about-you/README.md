@@ -109,16 +109,9 @@ Design quality is not graded. Clarity and thoughtfulness matter more.
 
 ---
 
-# ✅ Grading (10 Points – Completion-Based)
+### ✅ Grading (10 Points – Completion-Based)
 
 
 ---
 
-## Final Thought
-
-Data can describe behavior.
-
-It cannot fully describe a person.
-
-Welcome to Marketing Analytics.
 
